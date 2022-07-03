@@ -1,0 +1,60 @@
+#contact {
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: flex;
+}
+
+.conntainer {
+    position: absolute;
+    display: flex;
+    background-color: white;
+    /* margin-left: 50%;
+    margin-right: 20%; */
+
+
+}
+
+.contact0 {
+    margin-top: 30em;
+    padding-left: 9em;
+    text-align: center;
+    font-size: 3rem;
+}
+
+form {
+
+    background-color: lightblue;
+    width: 50%;
+    margin: auto;
+    border: solid 3px transparent;
+    display: block;
+    justify-content: center;
+    border-radius: 20px;
+    /* margin: 5% 10%; */
+    justify-content: center;
+    margin-top: 45px;
+    margin-bottom: 30px;
+
+}
+
+.mb-3 {
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+
+}
+
+
+.button1 {
+    display: flex;
+    padding-left: 9em;
+    padding-right: 9em;
+    margin-bottom: 50px;
+}
+
+button {
+    margin-right: 200px;
+    justify-content: space-between;
+}
