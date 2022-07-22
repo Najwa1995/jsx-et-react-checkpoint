@@ -7,7 +7,7 @@ const Navs = () => {
     <Navbar expand="lg" className="nav1">
       <Container>
         <Navbar.Brand href="#home">
-          <Nav.Link href="#home">NAJWA</Nav.Link>
+          <Nav.Link href="#home">Facebook</Nav.Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
